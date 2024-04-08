@@ -31,7 +31,7 @@ $ cmake ../
 ```
 make shall do:
 ```
-make
+make driver
 Scanning dependencies of target driver
 [100%] Generating hello.ko
 [100%] Built target driver
